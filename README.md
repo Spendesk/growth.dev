@@ -5,7 +5,7 @@
 Let's Talk about IPAs 🍻 & APIs 💻
 
 
-In 2018, developers are considered are the new workers 👷‍. In some companies, they are just there to piss some lines of codes. You deserve better than that. When you are a coding master, lots of opportunities are open to you: work closer to the product, work as a freelance from Bali 🏝️, ... Or be the Iron Arm of the business team?
+In 2018, developers are considered to be the new workers 👷‍. In some companies, they are just there to piss some lines of codes. You deserve better than that. When you are a coding master, lots of opportunities are open to you: work closer to the product, work as a freelance from Bali 🏝️, ... Or be the Iron Arm of the business team?
 
 Growth Engineer, this new job title in France is very popular in 🇺🇸. It's a creative, technical guy who works on the product side, marketing side, sales side by testing new experiments to create Growth.
 
