@@ -1,5 +1,8 @@
 ⭐️ STAR THE REPOSITORY IF YOU WANT TO ATTEND ⭐️
 
+[ADD TO MY CALENDAR 📅](
+https://calendar.google.com/calendar/r/eventedit/copy/MmQ3Zzg3anBwbmJ1azM1dW9yNWlzODR1N28gamVyZW15QHNwZW5kZXNrLmNvbQ/amVyZW15QHNwZW5kZXNrLmNvbQ?sf=true)
+
 # Growth.DEV | PARIS 🇫🇷
 
 Let's Talk about IPAs 🍻 & APIs 💻
