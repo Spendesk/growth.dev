@@ -1,7 +1,7 @@
 ⭐️ STAR THE REPOSITORY IF YOU WANT TO ATTEND ⭐️
 
 [ADD TO MY CALENDAR 📅](
-https://calendar.google.com/calendar/r/eventedit/copy/MmQ3Zzg3anBwbmJ1azM1dW9yNWlzODR1N28gamVyZW15QHNwZW5kZXNrLmNvbQ/amVyZW15QHNwZW5kZXNrLmNvbQ?sf=true)
+http://www.google.com/calendar/event?action=TEMPLATE&dates=20181030T180000Z%2F20181030T210000Z&text=Growth.Dev%20%7C%20%23Paris%20%26%20Spendesk&location=45%20Rue%20de%20Paradis%2C%2075010%20PARIS&details=)
 
 # Growth.DEV | PARIS 🇫🇷
 
