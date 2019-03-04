@@ -15,6 +15,38 @@ Growth Engineer, this new job title in France is very popular in 🇺🇸. It's 
 With these series of Growth.Dev events, we want to share with you alternatives to only be a developer. Stories from people who switch from the traditional techy side to leverage the code in a different way. Create Growth 🛩
 
 
+## Tuesday 26th Mars 2018
+7.00pm [@Spendesk](https://www.google.fr/maps/place/Spendesk/@48.8752775,2.3475913,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dde28328977:0xc584517ccc2c3038!8m2!3d48.875274!4d2.34978)
+
+![Growth.Dev](http://image.noelshack.com/fichiers/2018/41/7/1539535972-growt-dev.png)
+
+
+## What you will learn
+```
+During this workshop you will learn the basic of webscraping in Javascript. We will teach you how to use Puppeteer to transform your linkedin connection into an andress book!
+```
+
+> Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). Puppeteer runs [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) by default, but can be configured to run full (non-headless) Chrome or Chromium.
+
+<!-- [START usecases] -->
+###### What can I do?
+
+Most things that you can do manually in the browser can be done using Puppeteer! Here are a few examples to get you started:
+
+* Generate screenshots and PDFs of pages.
+* Crawl a SPA (Single-Page Application) and generate pre-rendered content (i.e. "SSR" (Server-Side Rendering)).
+* Automate form submission, UI testing, keyboard input, etc.
+* Create an up-to-date, automated testing environment. Run your tests directly in the latest version of Chrome using the latest JavaScript and browser features.
+* Capture a [timeline trace](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference) of your site to help diagnose performance issues.
+* Test Chrome Extensions.
+<!-- [END usecases] -->
+
+
+## Speakers
+
+* **Aurélien Aubert** - *Growth Engineer* - [Spendesk.com](https://www.spendesk.com/)
+* **Clément Garbay** - *Full Stack Engineer* - [Spendesk.com](https://www.spendesk.com/)
+
 ## Tuesday 30th October 2018
 7.00pm [@Spendesk](https://www.google.fr/maps/place/Spendesk/@48.8752775,2.3475913,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dde28328977:0xc584517ccc2c3038!8m2!3d48.875274!4d2.34978)
 
