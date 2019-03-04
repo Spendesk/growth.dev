@@ -23,7 +23,8 @@ With these series of Growth.Dev events, we want to share with you alternatives t
 
 ## What you will learn
 ```
-During this workshop you will learn the basic of webscraping in Javascript. We will teach you how to use Puppeteer to transform your linkedin connection into an andress book!
+During this workshop you will learn the basic of webscraping in Javascript. 
+We will teach you how to use Puppeteer to transform your linkedin connection into an andress book!
 ```
 
 > Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). Puppeteer runs [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) by default, but can be configured to run full (non-headless) Chrome or Chromium.
